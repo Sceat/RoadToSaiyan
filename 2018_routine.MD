@@ -1,10 +1,7 @@
-# The Everyday workout
+# Сифу workout
 7/7 routine
 ## Warmup
 * stretch
-* 20 burpees
-* 3min plank
-* 1000 jump ropes
 ## Specific set
 Train your custom personal set for the targeted move.
 Front Lever, Planche, whatever...
@@ -21,6 +18,7 @@ Front Lever, Planche, whatever...
 * 20 dragon flag raise
 * 20 leg raise
 * 20 back lever leg raise
+* 4min plank 
 ## Routine base
 > Get the best time possible everyday
 * 20 muscle up
@@ -32,7 +30,8 @@ Front Lever, Planche, whatever...
 ## Set legs
 > This is a set, do it without rest
 * 10 pistol squat (each leg)
-* 20 calf raise
+* 30 calf raise (each leg)
 * 20 jump squat
 * 20 lunge
 * 50 squat
+* 1000 jump ropes
