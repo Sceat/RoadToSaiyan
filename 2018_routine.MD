@@ -27,15 +27,12 @@ Front Lever, Planche, whatever...
 * 100 dips
 * 100 push up
 * 20 muscle up
-## Set legs (once a week)
+## Set legs (if no cardio)
 > This is a set, do it without rest
 * 10 pistol squat (each leg)
 * 30 calf raise (each leg)
 * 20 jump squat
 * 20 lunge
 * 50 squat
-## (Optional) Cardio
-* 1000 jump ropes
-* 50 burpees
-* 50 mountain climbers
-* 100 jumping jacks
+## Cardio (replace legs)
+* 2500 jump ropes in less than 30min (burn 400cal)
